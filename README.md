@@ -1,0 +1,1 @@
+# TCGCardShopSimulator_InstantTotalValue
