@@ -7,7 +7,7 @@ using BepInEx.Configuration;
 
 namespace InstantTotalValue
 {
-    [BepInPlugin("com.TNoStone.InstantTotalValue", "Instant Total Value", "1.0.2")]
+    [BepInPlugin("com.TNoStone.InstantTotalValue", "Instant Total Value", "1.0.1")]
     public class InstantTotalValue : BaseUnityPlugin
     {
         public static ManualLogSource InstanceLogger;
