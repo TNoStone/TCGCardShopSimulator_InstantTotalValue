@@ -107,22 +107,3 @@ __pycache__/
 # Ignore bin and obj folders in all directories
 [Bb]in/
 [Oo]bj/
-
-# -------- Custom Rules to Include Only InstantTotalValue.dll --------
-
-# Unignore the bin directory of your project
-!TCGCardShopSimulator_InstantTotalValue/bin/
-
-# Ignore everything in the bin directory
-TCGCardShopSimulator_InstantTotalValue/bin/*
-
-# Unignore the Release directory
-!TCGCardShopSimulator_InstantTotalValue/bin/Release/
-
-# Ignore everything in the Release directory
-TCGCardShopSimulator_InstantTotalValue/bin/Release/*
-
-# Unignore the specific DLL file
-!TCGCardShopSimulator_InstantTotalValue/bin/Release/InstantTotalValue.dll
-
-# -------------------------------------------------------------------------------
